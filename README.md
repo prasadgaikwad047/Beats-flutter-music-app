@@ -30,6 +30,59 @@ Beats is a feature-rich music application that offers a seamless and immersive m
 
 5. **Music Exploration:** Beats promotes the discovery of new music through its internet radio channel promotion, encouraging users to explore various genres and expand their musical horizons.
 
+  
+
+<table>
+  <tr>
+    <td align="center">
+      <h2> Home Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/Homescreen.jpeg" alt="First Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>Radio Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/Radioscreen.jpeg" alt="Second Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2> Search Screen</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/Searchscreen.jpeg" alt="First Image" width="300" height="600">
+    </td>
+    
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2> Play Music</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/Playmusic.jpeg" alt="First Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>Play Radio</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/Playradio.jpeg" alt="Second Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>Playlist</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/Playlists.jpeg" alt="First Image" width="300" height="600">
+    </td>
+    
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2> Login</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/Login.jpeg" alt="First Image" width="300" height="600">
+    </td>
+    <td align="center">
+      <h2>Sign Up</h2>
+      <img src="https://github.com/prasadgaikwad047/Beats-flutter-music-app/blob/main/Beats%20Images/SignUp.jpeg" alt="Second Image" width="300" height="600">
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 
 
